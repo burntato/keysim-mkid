@@ -1,0 +1,359 @@
+{
+  "width": 16,
+  "height": 5,
+  "keymaps": [],
+  "layouts": {
+    "LAYOUT": {
+      "key_count": 68,
+      "layout": [
+        {
+          "_comment": "KC_ESC",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "_comment": "KC_1",
+          "x": 1,
+          "y": 0
+        },
+        {
+          "_comment": "KC_2",
+          "x": 2,
+          "y": 0
+        },
+        {
+          "_comment": "KC_3",
+          "x": 3,
+          "y": 0
+        },
+        {
+          "_comment": "KC_4",
+          "x": 4,
+          "y": 0
+        },
+        {
+          "_comment": "KC_5",
+          "x": 5,
+          "y": 0
+        },
+        {
+          "_comment": "KC_6",
+          "x": 6,
+          "y": 0
+        },
+        {
+          "_comment": "KC_7",
+          "x": 7,
+          "y": 0
+        },
+        {
+          "_comment": "KC_8",
+          "x": 8,
+          "y": 0
+        },
+        {
+          "_comment": "KC_9",
+          "x": 9,
+          "y": 0
+        },
+        {
+          "_comment": "KC_0",
+          "x": 10,
+          "y": 0
+        },
+        {
+          "_comment": "KC_MINS",
+          "x": 11,
+          "y": 0
+        },
+        {
+          "_comment": "KC_EQL",
+          "x": 12,
+          "y": 0
+        },
+        {
+          "_comment": "KC_BSPC",
+          "x": 13,
+          "y": 0,
+          "w": 2
+        },
+        {
+          "_comment": "KC_HOME",
+          "x": 15,
+          "y": 0
+        },
+        {
+          "_comment": "KC_TAB",
+          "x": 0,
+          "y": 1,
+          "w": 1.5
+        },
+        {
+          "_comment": "KC_Q",
+          "x": 1.5,
+          "y": 1
+        },
+        {
+          "_comment": "KC_W",
+          "x": 2.5,
+          "y": 1
+        },
+        {
+          "_comment": "KC_E",
+          "x": 3.5,
+          "y": 1
+        },
+        {
+          "_comment": "KC_R",
+          "x": 4.5,
+          "y": 1
+        },
+        {
+          "_comment": "KC_T",
+          "x": 5.5,
+          "y": 1
+        },
+        {
+          "_comment": "KC_Y",
+          "x": 6.5,
+          "y": 1
+        },
+        {
+          "_comment": "KC_U",
+          "x": 7.5,
+          "y": 1
+        },
+        {
+          "_comment": "KC_I",
+          "x": 8.5,
+          "y": 1
+        },
+        {
+          "_comment": "KC_O",
+          "x": 9.5,
+          "y": 1
+        },
+        {
+          "_comment": "KC_P",
+          "x": 10.5,
+          "y": 1
+        },
+        {
+          "_comment": "KC_LBRC",
+          "x": 11.5,
+          "y": 1
+        },
+        {
+          "_comment": "KC_RBRC",
+          "x": 12.5,
+          "y": 1
+        },
+        {
+          "_comment": "KC_BSLS",
+          "x": 13.5,
+          "y": 1,
+          "w": 1.5
+        },
+        {
+          "_comment": "KC_PGUP",
+          "x": 15,
+          "y": 1
+        },
+        {
+          "_comment": "KC_CAPS",
+          "x": 0,
+          "y": 2,
+          "w": 1.75
+        },
+        {
+          "_comment": "KC_A",
+          "x": 1.75,
+          "y": 2
+        },
+        {
+          "_comment": "KC_S",
+          "x": 2.75,
+          "y": 2
+        },
+        {
+          "_comment": "KC_D",
+          "x": 3.75,
+          "y": 2
+        },
+        {
+          "_comment": "KC_F",
+          "x": 4.75,
+          "y": 2
+        },
+        {
+          "_comment": "KC_G",
+          "x": 5.75,
+          "y": 2
+        },
+        {
+          "_comment": "KC_H",
+          "x": 6.75,
+          "y": 2
+        },
+        {
+          "_comment": "KC_J",
+          "x": 7.75,
+          "y": 2
+        },
+        {
+          "_comment": "KC_K",
+          "x": 8.75,
+          "y": 2
+        },
+        {
+          "_comment": "KC_L",
+          "x": 9.75,
+          "y": 2
+        },
+        {
+          "_comment": "KC_SCLN",
+          "x": 10.75,
+          "y": 2
+        },
+        {
+          "_comment": "KC_QUOT",
+          "x": 11.75,
+          "y": 2
+        },
+        {
+          "_comment": "KC_ENT",
+          "x": 12.75,
+          "y": 2,
+          "w": 2.25
+        },
+        { "_comment": "KC_PGDN", "x": 15, "y": 2 },
+        {
+          "_comment": "KC_LSFT",
+          "x": 0,
+          "y": 3,
+          "w": 2.25
+        },
+        {
+          "_comment": "KC_Z",
+          "x": 2.25,
+          "y": 3
+        },
+        {
+          "_comment": "KC_X",
+          "x": 3.25,
+          "y": 3
+        },
+        {
+          "_comment": "KC_C",
+          "x": 4.25,
+          "y": 3
+        },
+        {
+          "_comment": "KC_V",
+          "x": 5.25,
+          "y": 3
+        },
+        {
+          "_comment": "KC_B",
+          "x": 6.25,
+          "y": 3
+        },
+        {
+          "_comment": "KC_N",
+          "x": 7.25,
+          "y": 3
+        },
+        {
+          "_comment": "KC_M",
+          "x": 8.25,
+          "y": 3
+        },
+        {
+          "_comment": "KC_COMM",
+          "x": 9.25,
+          "y": 3
+        },
+        {
+          "_comment": "KC_DOT",
+          "x": 10.25,
+          "y": 3
+        },
+        {
+          "_comment": "KC_SLSH",
+          "x": 11.25,
+          "y": 3
+        },
+        {
+          "_comment": "KC_RSFT",
+          "x": 12.25,
+          "y": 3,
+          "w": 1.75
+        },
+        {
+          "_comment": "KC_UP",
+          "x": 14,
+          "y": 3
+        },
+        {
+          "_comment": "KC_END",
+          "x": 15,
+          "y": 3
+        },
+        {
+          "_comment": "KC_LCTL",
+          "x": 0,
+          "y": 4,
+          "w": 1.25
+        },
+        {
+          "_comment": "KC_LGUI",
+          "x": 1.25,
+          "y": 4,
+          "w": 1.25
+        },
+        {
+          "_comment": "KC_LALT",
+          "x": 2.5,
+          "y": 4,
+          "w": 1.25
+        },
+        {
+          "_comment": "KC_SPC",
+          "x": 3.75,
+          "y": 4,
+          "w": 6.25
+        },
+        {
+          "_comment": "KC_RALT",
+          "x": 10,
+          "y": 4
+        },
+        {
+          "_comment": "MO(1)",
+          "x": 11,
+          "y": 4
+        },
+        {
+          "_comment": "KC_RCTL",
+          "x": 12,
+          "y": 4
+        },
+        {
+          "_comment": "KC_LEFT",
+          "x": 13,
+          "y": 4
+        },
+        {
+          "_comment": "KC_DOWN",
+          "x": 14,
+          "y": 4
+        },
+        {
+          "_comment": "KC_RIGHT",
+          "x": 15,
+          "y": 4
+        }
+      ]
+    }
+  }
+}
